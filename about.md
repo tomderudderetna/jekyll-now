@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La médiocrité commence là où les passions meurent.
-permalink: /A propos/
+permalink: /about/
 ---
 
 En quête de mon domaine d'expertise, organisé, créatif, doté de bonnes intuitions et d’un sens critique, exigeant avec moi-même, je fais preuve de détermination et de persévérance pour le trouver. Je m’appelle Tom, j’ai 24 ans.

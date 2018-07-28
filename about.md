@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: La médiocrité commence là où les passions meurent.
+permalink: /A propos/
 ---
 
-Some information about you!
+En quête de mon domaine d'expertise, organisé, créatif, doté de bonnes intuitions et d’un sens critique, exigeant avec moi-même, je fais preuve de détermination et de persévérance pour le trouver. Je m’appelle Tom, j’ai 24 ans.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Me contacter
 
 [tomderudder@gmail.com](mailto:tomderudder@gmail.com)

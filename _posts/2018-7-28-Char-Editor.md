@@ -10,4 +10,5 @@ Il génère automatiquement un code Arduino lorsque vous dessinez dans le cadre 
 N’hésitez pas à essayer et à me proposer des améliorations.
 
 
-[**Découvrir**](https://tomderudder.000webhostapp.com/char-editor/)
+[**Découvrir**](https://tomderudder.000webhostapp.com/char-editor/) |
+[**Voir le code**](https://gitlab.com/tomderudderetna/Arduino/tree/master/char%20editor)
